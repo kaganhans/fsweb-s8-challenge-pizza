@@ -1,0 +1,13 @@
+:root {
+  --red: #CE2829;
+  --yellow: #FDC913;
+  --gray-light: #5F5F5F;
+  --gray-dark: #292929;
+  --beige: #FAF7F2;
+}
+
+body {
+  margin: 0;
+  font-family: 'Roboto Condensed', sans-serif;
+  background-color: var(--beige);
+}
